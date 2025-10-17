@@ -2,8 +2,6 @@
 # Display name
 title: Myriam Rodriguez-Gandarilla
 
-# Name pronunciation (optional)
-name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Myriam
@@ -59,9 +57,7 @@ education:
     institution: Cinvestav-Irapuato
     summary: |
       Thesis on Geminivirus synergism and silencing suppression. Supervised by Prof. Rafael Rivera-Bustamante. 
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
+ 
   - area: MSc Biochemistry
     institution: IBT UNAM
     summary: |
